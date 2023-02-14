@@ -1,1 +1,1 @@
-#
+#Devops is a course that is taken in george brown college. Devops is a course that involves project management in the IT field or IT operations using software known as github. 
