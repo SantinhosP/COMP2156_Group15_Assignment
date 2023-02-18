@@ -1,3 +1,5 @@
 # Comp 2156 is a course offered at George Brown College for T147 and T141 in semester 4
 
 # This Course is taught by Pritesh Patel
+
+# DevOps uses many different tools and practices to increase a organizations ability to automate different tasks and processes
