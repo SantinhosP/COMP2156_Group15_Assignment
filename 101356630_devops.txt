@@ -3,3 +3,5 @@
 # This Course is taught by Pritesh Patel
 
 # DevOps uses many different tools and practices to increase a organizations ability to automate different tasks and processes
+
+# A typical DevOps team in a work enviroment consists of  many different developers and IT operation people.
