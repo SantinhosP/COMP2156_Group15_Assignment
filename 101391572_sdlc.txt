@@ -1,0 +1,5 @@
+this text file is about comp2156 
+
+in todays world devops and cloud computing are the leading upcoming courses for computer students .
+
+this course we use github and github to create repository and to commit them and push them. 
